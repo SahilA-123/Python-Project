@@ -1,7 +1,7 @@
 # Python-Project
 
-##Book My Trip
+## Book My Trip
 
-####Train Reservation System
+#### Train Reservation System
 
-######Tkinter used as a library
+###### Tkinter used as a library
