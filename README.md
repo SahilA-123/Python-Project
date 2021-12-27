@@ -1,6 +1,6 @@
 # Python-Project
 
-## Book My Trip
+## Book My Trip Application
 
 #### Train Reservation System
 
